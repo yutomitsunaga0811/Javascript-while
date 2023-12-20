@@ -1,0 +1,1 @@
+JavascriptのWHILE分を練習しました。
